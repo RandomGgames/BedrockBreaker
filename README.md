@@ -1,5 +1,5 @@
 # Bedrock Breaker Data Pack
-Makes it so TNT destroys blocks of bedrock that are directly next to it on all 6 sides.
+Makes TNT destroy bedrock blocks directly touching it.
 
 # How to Install
 Download the data pack and either drag and drop into the data pack selection screen or drop into your save's datapacks folder than reload it.
