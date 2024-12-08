@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"pack_format": 43,
+		"pack_format": 61,
 		"description": "Makes it so TNT breaks bedrock directly touching any of it's faces. Created by RandomGgames."
 	}
 }
