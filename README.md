@@ -5,8 +5,7 @@ Tired of using glitches to break bedrock? Do other mods make it too easy or too 
 ## Features  
 - Each TNT can break up to 6 blocks of bedrock (One bedrock block per face).
 - TNT retains the vanilla functionality of not breaking blocks when in water - it won't break bedrock blocks when in water.
-- Vanilla friendly implementation that's unlikely to interfear with other mods/data packs
-- Compatible with both single-player and multiplayer worlds!
+- Vanilla friendly implementation that's unlikely to interfear with other mods/data packs.
 
 ## How It Works  
 1. Place TNT touching bedrock on any side (Make sure it's supported with something underneath)
