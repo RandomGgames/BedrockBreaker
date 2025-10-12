@@ -1,14 +1,14 @@
-# Bedrock Breaker  
+# Bedrock Breaker
 
-Tired of using glitches to break bedrock? Do other mods make it too easy or too hard? BedrockBreaker is here to strike the perfect balance!  
+Tired of using glitches to break bedrock? Do other mods make it too easy or too hard? BedrockBreaker is here to strike the perfect balance!
 
-## Features  
-- Each TNT can break up to 6 blocks of bedrock (One bedrock block per face).
-- TNT retains the vanilla functionality of not breaking blocks when in water - it won't break bedrock blocks when in water.
+## Features
+- Each TNT can break up to 6 blocks of bedrock (One bedrock block per tnt face).
+- Retains the functionality of not breaking blocks when in water.
 - Vanilla friendly implementation that's unlikely to interfear with other mods/data packs.
 
-## How It Works  
-1. Place TNT touching bedrock on any side (Make sure it's supported with something underneath)
+## How It Works
+1. Place TNT touching bedrock on any side (Make sure it's supported with something underneath as usual)
 2. Ignite the TNT
 3. Boom!
 
