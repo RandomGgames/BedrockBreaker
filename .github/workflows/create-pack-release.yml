@@ -62,6 +62,6 @@ jobs:
 
           gh release create "$tag" \
               --repo="$GITHUB_REPOSITORY" \
-              --title="${repo_name} ${tag#v}" \
+              --title="${repo_name} v${tag#v}" \
               --generate-notes \
               "$repo_name-${tag#v}.zip"
