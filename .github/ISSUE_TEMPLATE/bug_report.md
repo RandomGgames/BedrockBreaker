@@ -1,14 +1,14 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: "[BUG] "
+name: Report Issue
+about: Create a bug/issue post so it can be fixed
+title: "[ISSUE] *Quickly describe issue here*"
 labels: bug
 assignees: RandomGgames
 
 ---
 
-## Bug Description:
-*Replace me with a clear and concise description of what the bug is. Explain what you were doing, what you expected to happen, and what happened instead. If applicable, also add screenshots/videos/urls.*
+## Issue Description:
+*Replace me with a clear and concise description of what the issue is. Explain what you were doing, what you expected to happen, and what happened instead. If applicable, also add screenshots/videos/urls.*
 
 ### Context:
  - Game Version: ```game_version_here```
