@@ -1,13 +1,7 @@
 {
     "pack": {
-        "min_format": [
-            101,
-            1
-        ],
-        "max_format": [
-            101,
-            1
-        ],
+        "min_format": 101.1,
+        "max_format": 121,
         "description": [
             {
                 "text": "Makes it so TNT breaks bedrock!",
