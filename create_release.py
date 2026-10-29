@@ -29,8 +29,8 @@ logger.setLevel(logging.DEBUG)
 @dataclass
 class ScriptSettings:
     pack_name = "BedrockBreaker"
-    pack_version = "1.1.5"
-    game_versions = "26.1-26.1.2"
+    pack_version = "1.1.6"
+    game_versions = "26.1-26.3"
     files_to_zip = [
         Path(r"assets"),
         Path(r"data"),
